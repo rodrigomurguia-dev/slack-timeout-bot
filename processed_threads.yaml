@@ -1,0 +1,4 @@
+threads:
+- channel: C0123456
+  thread_ts: test_ts_123
+  timestamp: '2026-04-24T21:07:55.698306'

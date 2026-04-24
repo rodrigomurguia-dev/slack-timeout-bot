@@ -1,0 +1,5 @@
+# Canal donde el bot escucha
+listen_channel: "C0123456"
+
+# Canal donde el bot notifica
+notify_channel: "C9876543"
